@@ -3,8 +3,7 @@
 #include <Windows.h>
 #include <iostream>
 
-HHOOK hHook 
-{
+HHOOK hHook {
 	NULL 
 };
 
